@@ -44,7 +44,7 @@ if len(embs) != THE_DIMENSION_OF_YOUR_EMBEDDINGS:
 ```
 The file with the embedding should be located in the folder previously created, and named as the dataset:
 ```
-playlist/data/tag_embeds/THE_NAME_OF_YOUR_DATSET.txt
+playlists-stat-analysis/data/tag_embeds/THE_NAME_OF_YOUR_DATSET.txt
 ```
 
 #### Add Tag-Tracks
