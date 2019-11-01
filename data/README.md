@@ -1,7 +1,7 @@
 # How to Add a New Playlist Dataset to Analyze
 > If you have any problem during the procedure, please let me know at lorenzo.porcaro at gmail.com
 
-### Create a New Folder for the Data of the New Dataset
+### Create a New Folder for the New Dataset
 After cloning the repo, you can choose to analyze your own dataset. For doing that, start with creating the dataset folder:
 ```
 cd playlist/data
@@ -48,7 +48,7 @@ playlist/data/tag_embeds/THE_NAME_OF_YOUR_DATSET.txt
 ```
 
 #### Add Tag-Tracks
-First, create a folder for the embeddings
+First, create a folder for the tag-tracks
 ```
 cd playlist/data
 mkdir lastfm_tags
