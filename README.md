@@ -5,7 +5,7 @@ The proposed methodology can be applied to characterize playlists in terms of po
 This repository contains code to reproduce the results of our [paper](http://mtg.upf.edu/node/3959).
 
 #### Reference:
-> Lorenzo Porcaro, Emilia Gómez (2019). 20 Years of Playlists: A Statistical Analysis on Popularity and Diversity. Paper to be presented at the 20th Conference of the International Society for Music Information Retrieval (ISMIR 2019), Delft, The Netherlands, 4-8 November.
+> Lorenzo Porcaro, Emilia Gómez (2019). 20 Years of Playlists: A Statistical Analysis on Popularity and Diversity. 20th Conference of the International Society for Music Information Retrieval (ISMIR 2019), Delft, The Netherlands, 4-8 November.
 
 #### Contact:
 >lorenzo.porcaro at gmail.com
